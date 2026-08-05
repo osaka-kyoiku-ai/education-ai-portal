@@ -1,2 +1,13 @@
-# education-ai-portal
-Public website for research projects, participant recruitment, publications, and educational AI resources developed at Osaka Kyoiku University.
+Education AI Portal
+
+This repository hosts the public website for the Education AI Research Project.
+
+Contents
+
+- Research Projects
+- News
+- Recruitment
+- Publications
+- Members
+- Resources
+- Contact
